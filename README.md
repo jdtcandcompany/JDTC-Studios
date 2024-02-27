@@ -1,2 +1,2 @@
 # Mobile-Privacy-Policy
-This is our generic privacy policy for mobile applications
+This is our privacy policy for mobile applications
